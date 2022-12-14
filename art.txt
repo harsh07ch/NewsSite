@@ -1,0 +1,82 @@
+{
+"status": "ok",
+"totalResults": 786,
+"articles": [
+{
+"source": {
+"id": "reuters",
+"name": "Reuters"
+},
+"author": null,
+"title": "Behind Foxconn's China woes: mistrust, miscommunication, COVID curbs - Reuters",
+"description": "When officials from his Chinese village approached Hou last month, urging him to work at the world's largest iPhone factory for at least twice the usual pay, he knew it was risky.",
+"url": "https://www.reuters.com/technology/behind-foxconns-china-woes-mistrust-miscommunication-covid-curbs-2022-11-29/",
+"urlToImage": "https://www.reuters.com/resizer/e6qYv6-wMiJPRMd7-SxmDtngKjI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/4DDOPYSH2NJAJOQSD2SGWNH6TU.jpg",
+"publishedAt": "2022-11-29T02:25:18Z",
+"content": "SHANGHAI, Nov 29 (Reuters) - When officials from his Chinese village approached Hou last month, urging him to work at the world's largest iPhone factory for at least twice the usual pay, he knew it w… [+4914 chars]"
+},
+{
+"source": {
+"id": "reuters",
+"name": "Reuters"
+},
+"author": null,
+"title": "Asia shares take comfort in China property rally - Reuters",
+"description": "Asian shares edged higher on Tuesday as Beijing's latest move to support developers boosted the property sector, though it was still not clear what new damage public unrest over China's zero-COVID policy might do to the economy.",
+"url": "https://www.reuters.com/markets/global-markets-wrapup-1-pix-2022-11-29/",
+"urlToImage": "https://www.reuters.com/resizer/j3KJc_Kf0xbwijVGkGN-2Rdqr4I=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/AJEZBOFDSZOXLPJKDPPG3PTAY4.jpg",
+"publishedAt": "2022-11-29T02:25:00Z",
+"content": "SYDNEY, Nov 29 (Reuters) - Asian shares edged higher on Tuesday as Beijing's latest move to support developers boosted the property sector, though it was still not clear what new damage public unrest… [+3964 chars]"
+},
+{
+"source": {
+"id": "reuters",
+"name": "Reuters"
+},
+"author": null,
+"title": "Labour turmoil sweeps Australia as inflation stirs 'spirit of anger' - Reuters",
+"description": "After a decade of making up to A$200,000 a year (about US$135,000) on oil and gas rigs as a fitter and subsea equipment specialist in Western Australia, Adam Naylor had had enough.",
+"url": "https://www.reuters.com/world/asia-pacific/labour-turmoil-sweeps-australia-inflation-stirs-spirit-anger-2022-11-29/",
+"urlToImage": "https://www.reuters.com/resizer/7eoqOvPxRT3-IxNfWmh2XWObLJE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/FTIXL7Y2CBOYLH5EDY3X7DWP5M.jpg",
+"publishedAt": "2022-11-29T00:15:00Z",
+"content": "SYDNEY/MELBOURNE, Nov 29 (Reuters) - After a decade of making up to A$200,000 a year (about US$135,000) on oil and gas rigs as a fitter and subsea equipment specialist in Western Australia, Adam Nayl… [+7082 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "The Guardian"
+},
+"author": "Dan Milmo Global technology editor",
+"title": "Will Elon Musk really let Twitter go bust?",
+"description": "Advertising shortfall and issues over subscription revenues should worry new owner given huge level of debtFollowers of Elon Musk’s Twitter account will know that the world’s richest man is partial to attention-grabbing statements. Even so, it was notable whe…",
+"url": "https://www.theguardian.com/business/2022/nov/29/elon-musk-twitter-bust-debt",
+"urlToImage": "https://i.guim.co.uk/img/media/ad43c5d4a28f804bc8e4da626afd4ab016d95fd2/0_212_3500_2101/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=67d9d1df73bf6b48fddbd80c4840772f",
+"publishedAt": "2022-11-29T07:00:21Z",
+"content": "Followers of Elon Musks Twitter account will know that the worlds richest man is partial to attention-grabbing statements. Even so, it was notable when he told Twitter staff this month that bankruptc… [+7350 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "CNET"
+},
+"author": "CNET staff",
+"title": "8 Last Chance Cyber Monday Deals at Their Lowest Prices Ever - CNET",
+"description": "Time is running out!",
+"url": "https://www.cnet.com/deals/8-last-chance-cyber-monday-deals-at-their-lowest-prices-ever/",
+"urlToImage": "https://www.cnet.com/a/img/resize/acaef19b24ef93bfaaa38def4c1c72837abc08f8/hub/2022/11/22/45a4872c-ceec-4f5d-88e1-f107ee1abd36/lowest-black-friday-prices-ever.jpg?auto=webp&fit=crop&height=630&width=1200",
+"publishedAt": "2022-11-29T03:04:00Z",
+"content": "Cyber Monday is almost done, which means we're nearing the end of the year's biggest sales week. There have been some amazing deals, including some of the best we've ever seen. There have even been q… [+3187 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "CNET"
+},
+"author": "McKenzie Dillon",
+"title": "Last Chance Cyber Monday Bed Accessory Deals: Save on Sheets, Pillows and Even Dog Beds - CNET",
+"description": "Brands like Sleep Number, Ettitude and Brooklinen are offering big savings this Cyber Monday on sheets, pillows and other bedroom accessories.",
+"url": "https://www.cnet.com/deals/last-chance-cyber-monday-bed-accessory-deals-save-on-sheets-pillows-and-even-dog-beds/",
+"urlToImage": "https://www.cnet.com/a/img/resize/55a0fa55810ae9b647cfbb9f147b28905da9c5d7/hub/2022/11/23/bc3a17fe-b574-4049-8652-5654a55b6cd6/gettyimages-1294029211.jpg?auto=webp&fit=crop&height=630&width=1200",
+"publishedAt": "2022-11-29T03:05:00Z",
+"content": "Bedding accessories like sheets, pillows and adjustable bed frames can take a bedroom set from good to extra-cozy. Besides being comfortable to snuggle up to, your pillow can make a big difference in… [+3476 chars]"
+}
